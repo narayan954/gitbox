@@ -1,0 +1,19 @@
+{
+  "name": "searching-github-username",
+  "version": "4.0.1",
+  "description": "fix content",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuongtruong1009/searching-github-username.git"
+  },
+  "author": "https://github.com/thuongtruong1009",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thuongtruong1009/searching-github-username/issues"
+  },
+  "homepage": "https://github.com/thuongtruong1009/searching-github-username#readme"
+}
